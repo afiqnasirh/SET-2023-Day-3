@@ -1,0 +1,191 @@
+/* wildcard all selector*/
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* Section1 */
+/* #section1 .parent {
+  width: 500px;
+  height: 400px;
+  background-color: yellow;
+  position: relative;
+}
+
+#section1 .children1 {
+  width: 100px;
+  height: 100px;
+  background-color: cyan;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#section1 .children2 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 0;
+  left: 100px;
+}
+
+#section1 .children3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 0px;
+  left: 200px;
+} */
+
+/*SECTION2*/
+/* #section2 .parent {
+  width: 500px;
+  height: 400px;
+  background-color: yellow;
+  position: relative;
+}
+
+    #section2 .children1 {
+     width: 100px;
+     height: 100px;
+        background-color: cyan;
+     position: absolute;
+        top: 0;
+        left: 0;
+}
+
+#section2 .children2 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+  
+}
+
+#section2 .children3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 0px;
+  right: 0;
+} */
+
+/*Section3*/
+/* #section3 .parent {
+  width: 500px;
+  height: 400px;
+  background-color: yellow;
+  position: relative;
+}
+
+    #section3 .children1 {
+     width: 100px;
+     height: 100px;
+        background-color: cyan;
+     position: absolute;
+        top: 0;
+        left: 0;
+}
+
+#section3 .children2 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+        top: 100px;
+        left: 100px;
+
+  
+}
+
+#section3 .children3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 200px;
+  right: 200px;
+} */
+
+/* Section4
+#section4 .parent {
+  width: 500px;
+  height: 400px;
+  background-color: yellow;
+  position: relative;
+}
+
+    #section4 .children1 {
+     width: 100px;
+     height: 100px;
+        background-color: cyan;
+     position: absolute;
+        top: 0;
+        left: 0;
+}
+
+#section4 .children2 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+        top: 50px;
+        left: 50px;
+
+  
+}
+
+#section4 .children3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+} */
+
+/*Section5*/
+#section5 .parent {
+  width: 500px;
+  height: 400px;
+  background-color: yellow;
+  position: relative;
+}
+
+    #section5 .children1 {
+     width: 100px;
+     height: 100px;
+        background-color: cyan;
+     position: absolute;
+        top: 0;
+        left: 0;
+}
+
+#section5 .children2 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+        top: 50px;
+        left: 50px;
+
+  
+}
+
+#section5 .children3 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
